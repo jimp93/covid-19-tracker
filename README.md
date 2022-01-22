@@ -60,7 +60,7 @@ The final dataset of almost 130,000 records was analyzed to find the strength of
 
 The end goal was to create an accurate model, and to find out which factors were given the heaviest weighting by the most accurate models. <br>
 
-To do this, we created a series of models using logitstic regression, decision trees, random forests and gradient boosting.
+To do this, we created a series of models using logistic regression, decision trees, random forests and gradient boosting.
 
 Each model was then put to the test with previously unseen data, and its performance calculated in terms of how accurately it could predict whether a respondent would answer 'yes' or 'no' to the target question. <br>
 
@@ -107,15 +107,15 @@ Each model was tuned to maximise its performance, and the results of the best tw
 
 ### Conclusion
 
-This analysis leads to the following recommendations for the government for its upcoming mental health awareness campaign.
+This analysis leads to the following recommendations for the government in its upcoming mental health awareness campaign.
 
-* Work with student services at major universities to raise awareness of symptoms to look out for, and who to contact for help. A similar campaign should be coordinated with job centres across the country.
+* Work with student services at major universities to raise awareness of symptoms, and who to contact for help. A similar campaign should be coordinated with job centres across the country.
 
 * Run television, Facebook and Instagram campaigns targeting young people, but particularly young women.
 
-* Consider introducing financial incentives for people to eat out or join social/sports clubs**
+* Consider introducing financial incentives for people to eat out or join social/sports clubs.
 
-* Inform the Italian authorities of the levels of mental health problems reported by people living there
+* Inform the Italian authorities of the levels of mental health problems reported by people living there.
 
 <img src="images/work.png" style="width: 700px;"/>
 <br>
@@ -124,21 +124,21 @@ This analysis leads to the following recommendations for the government for its 
 
 ### Next steps
 
-* Tailor a new questionnaire focussed on the key factors identified in the models. Each factor needs to be explored in more detail to produce a more granular model
+* Tailor a new questionnaire focussed on the key factors identified in the models. Each factor needs to be explored in more detail to produce a more granular model.
 
-* Once we have a high-performing model, we can then produce a concise survey for the NHS to offer those who use its services. This can be used to flag up individuals at high risk of suffering mental health problems without having to directly question them about this highly-sensitive issue
+* Once we have a high-performing model, we can then produce a concise survey for the NHS to offer those who use its services. This can be used to flag up individuals at high risk of suffering mental health problems without having to directly question them about this highly-sensitive issue.
 
-* Although we found that there was a strong link between those whose lives had been affected most by the virus and mental health problems, we need to analyse pre-pandemic data to identify pre-existing predictive factors. This will help us more accurately model whether the mental health of certain groups has been disproportionately affected by the pandemic
+* Although we found that there was a strong link between those whose lives had been affected most by the virus and mental health problems, we need to analyse pre-pandemic data to identify pre-existing predictive factors. This will help us more accurately model whether the mental health of certain groups has been disproportionately affected by the pandemic.
 
-* There were sparse responses to questions about working from home, which made them unusable. We should conduct our own survey on this issue, as it is potentially an important factor that has only arisen during the last two years
+* There were sparse responses to questions about working from home, which made them unusable. We should conduct our own survey on this issue, as it is potentially an important factor that has only arisen during the last two years.
 
 <img src="images/back.jpg" style="width: 700px;"/>
 
-* There appears to be evidence from the models that pre-existing conditions such as arthritis, HIV and asthma  have a signifcant effect. But there were too few positive cases in the dataset to make a definitive statement. We should encourage charities dealing with those diseases to conduct surveys. the responses would help us make a more robust model
+* There appears to be evidence from the models that pre-existing conditions such as arthritis, HIV and asthma have a significant effect but there were too few positive cases in the dataset to make a definitive statement. We should encourage charities dealing with those diseases to conduct surveys. The responses would help us make a more robust model.
 
-* The responses on vaccine uptake and hesitancy were also a little inconsistent as different countries were at different stages in their vaccination programs over the duration of the survey. Now countries are on more of an even footing, we should conduct a survey focussed on issues surrounding access and attitudes to vaccines and mental health
+* The responses on vaccine uptake and hesitancy were also a little inconsistent as different countries were at different stages in their vaccination programs over the duration of the survey. Now countries are on more of an even footing, we should conduct a survey focussed on issues surrounding access and attitudes to vaccines and mental health.
 
-* We need to further analyse existing data on which groups are more reluctant to admit feeling depressed. Our data is anonymised, but it is still likely that some of those suffering from problems did not report it. This will obviously limit the effectiveness of our model
+* We need to further analyse existing data on which groups are more reluctant to admit feeling depressed. Our data is anonymised, but it is still likely that some of those suffering from problems did not report it. This will obviously limit the effectiveness of our model.
 <br>
 <br>
 
