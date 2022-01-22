@@ -20,8 +20,6 @@ Creating a strong predictive model will also help tailor surveys for those inter
 
 The UK's Covid taskforce shares its insights with other governments, so any findings of international discrepancies are also of interest to us. <br>
 
-<img src="images/back.jpg" style="width: 700px;"/>
-
 <br>
 <br>
 
@@ -93,7 +91,11 @@ Each model was tuned to maximise its performance, and the results of the best tw
 <img src="images/age_bar.png" style="width: 700px;"/>
 <br>
 <br>
-* People who did not leave the home often or see many other people from outside their households were more likely to suffer form depression.
+* People who did not go out often or see many other people from outside their households were more likely to suffer from depression.
+<br>
+<br>
+* Living in Italy increased the odds of reporting depression by around 70 percent.
+<br>
 <br>
 
 * Being a student or unemployed was a strong predictor of mental health issues. <br>
@@ -101,14 +103,6 @@ Each model was tuned to maximise its performance, and the results of the best tw
 <img src="images/emp_bar.png" style="width: 700px;"/>
 <br>
 <br>
-* People who did not leave the home often or see many other people from outside their households were more likely to suffer form depression.
-<br>
-<br>
-
-* Living in Italy increased the odds of reporting depression by around 70 percent.
-<br>
-
-
 
 
 ### Conclusion
@@ -138,7 +132,7 @@ This analysis leads to the following recommendations for the government for its 
 
 * There were sparse responses to questions about working from home, which made them unusable. We should conduct our own survey on this issue, as it is potentially an important factor that has only arisen during the last two years
 
-<img src="images/back.png" style="width: 700px;"/>
+<img src="images/back.jpg" style="width: 700px;"/>
 
 * There appears to be evidence from the models that pre-existing conditions such as arthritis, HIV and asthma  have a signifcant effect. But there were too few positive cases in the dataset to make a definitive statement. We should encourage charities dealing with those diseases to conduct surveys. the responses would help us make a more robust model
 
