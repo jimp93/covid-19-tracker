@@ -1,6 +1,6 @@
 ## Project Overview
 
-Following warnings from the WHO and the UN that the pandemic has increased risk factors for suicide [1, 2], the UK government approached our consultancy firm in order to identify the groups most at risk of mental health problems. These will be the targets of an upcoming awareness campaign. <br>
+Following warnings from the WHO and the UN that the pandemic has increased risk factors for suicide [1](https://news.un.org/en/story/2021/09/1099572), [2](https://www.who.int/news-room/feature-stories/detail/facing-mental-health-fallout-from-the-coronavirus-pandemic), the UK government approached our consultancy firm in order to identify the groups most at risk of mental health problems. These will be the targets of an upcoming awareness campaign. <br>
 
 <img src="images/cover.jpg" style="width: 700px;"/>
 
@@ -141,8 +141,3 @@ This analysis leads to the following recommendations for the government in its u
 * We need to further analyse existing data on which groups are more reluctant to admit feeling depressed. Our data is anonymised, but it is still likely that some of those suffering from problems did not report it. This will obviously limit the effectiveness of our model.
 <br>
 <br>
-
-
-[1] https://news.un.org/en/story/2021/09/1099572
-
-[2] https://www.who.int/news-room/feature-stories/detail/facing-mental-health-fallout-from-the-coronavirus-pandemic
