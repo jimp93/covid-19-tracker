@@ -85,7 +85,7 @@ Each model was tuned to maximise its performance, and the results of the best tw
 * Those whose lives had been most affected by the pandemic were more likely to report mental health issues, suggesting they were triggered by the virus and the response to it.
 <br>
 
-* Age and gender are key factors with younger people and females most at risk of depression. Being female increased the odds or reporting symptoms by percent.
+* Age and gender are key factors with younger people and females most at risk of depression. Being female increased the odds or reporting symptoms by 30 percent.
 <br>
 <br>
 <img src="images/age_bar.png" style="width: 700px;"/>
@@ -95,7 +95,7 @@ Each model was tuned to maximise its performance, and the results of the best tw
 * People who did not go out often or see many other people from outside their households were more likely to suffer from depression.
 <br>
 
-* Living in Italy increased the odds of reporting depression by around 70 percent.
+* Living in Italy increased the odds of reporting depression by around 53 percent.
 <br>
 
 * Being a student or unemployed was a strong predictor of mental health issues. <br>
