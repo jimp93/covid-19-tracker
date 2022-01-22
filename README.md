@@ -1,8 +1,8 @@
 ## Project Overview
 
-<img src="images/cover.jpg" style="width: 700px;"/>
-
 Following warnings from the WHO and the UN that the pandemic has increased risk factors for suicide [1, 2], the UK government approached our consultancy firm in order to identify the groups most at risk of mental health problems. These will be the targets of an upcoming awareness campaign. <br>
+
+<img src="images/cover.jpg" style="width: 700px;"/>
 
 To do this, we analysed data from the Imperial College London/YouGov Covid-19 Behaviour Tracker Data Hub.
 
@@ -20,7 +20,7 @@ Creating a strong predictive model will also help tailor surveys for those inter
 
 The UK's Covid taskforce shares its insights with other governments, so any findings of international discrepancies are also of interest to us. <br>
 
-<img src="images/back.png" style="width: 700px;"/>
+<img src="images/back.jpg" style="width: 700px;"/>
 
 <br>
 <br>
@@ -35,7 +35,7 @@ Our insights can also be used by the NHS to flag up any high-risk cases, without
 
 Any findings of international interest can be shared with the relevant governments.<br>
 
-<img src="images/seattle.jpg" style="width: 700px;"/>
+<img src="images/student.png" style="width: 700px;"/>
 <br>
 <br>
 
@@ -49,7 +49,7 @@ The dataset comprises surveys of more than 450 questions answered by hundreds of
 
 There was variation in which questions were posed by different countries, and which countries provided regular data.
 
-Infrequently answered questions, and repetitious ones, were removed from the dataset, leaving around 35 questions that covered the main issues surrounding personal attitudes towards the pandemic.
+Infrequently answered questions, and repetitious ones, were removed from the dataset, leaving 44 questions that covered the main issues surrounding personal circumstances and attitudes towards the pandemic.
 
 We focussed on the 11 countries that provided the most comprehensive responses. These were: Australia, Canada, Denmark, France, Germany, Italy, Norway, Spain, the UK and the US.
 
@@ -72,7 +72,6 @@ If used by the NHS to flag up potential high-risk cases, we could sacrifice some
 
 Each model was tuned to maximise its performance, and the results of the best two models were analysed to find the most important factors across both.
 
-<img src="images/seattle_heat.png" style="width: 700px;"/>
 <br>
 <br>
 
@@ -80,29 +79,33 @@ Each model was tuned to maximise its performance, and the results of the best tw
 
 <br>
 
-<img src="images/bs1.png" style="width: 700px;"/>
+<img src="images/bs.png" style="width: 700px;"/>
 
-**Those whose lives had been most affected by the pandemic were more likely to report mental health issues, suggesting they were triggered by the virus and the response to it.**
+<br>
 <br>
 
+* Those whose lives had been most affected by the pandemic were more likely to report mental health issues, suggesting they were triggered by the virus and the response to it.
+<br>
 
-**Age and gender are key factors with younger people and females most at risk of depression. Being female increased the odds or reporting symptoms by percent. <br>
+* Age and gender are key factors with younger people and females most at risk of depression. Being female increased the odds or reporting symptoms by percent. <br>
 <br>
 <br>
 <img src="images/age_bar.png" style="width: 700px;"/>
-
-**Being a student or unemployed was a strong predictor of mental health issues.** <br>
 <br>
 <br>
-**People who did not leave the home often or see many other people from outside their households were more likely to suffer form depression.**
+* People who did not leave the home often or see many other people from outside their households were more likely to suffer form depression.
 <br>
 
-
+* Being a student or unemployed was a strong predictor of mental health issues. <br>
+<br>
 <img src="images/emp_bar.png" style="width: 700px;"/>
 <br>
 <br>
+* People who did not leave the home often or see many other people from outside their households were more likely to suffer form depression.
+<br>
+<br>
 
-**Living in Italy increased the odds of reporting depression by around 70 percent.**
+* Living in Italy increased the odds of reporting depression by around 70 percent.
 <br>
 
 
@@ -112,15 +115,15 @@ Each model was tuned to maximise its performance, and the results of the best tw
 
 This analysis leads to the following recommendations for the government for its upcoming mental health awareness campaign.
 
-**Work with student services at major universities to raise awareness of symptoms to look out for, and who to contact for help. A similar campaign should be coordinated with job centres across the country.**
+* Work with student services at major universities to raise awareness of symptoms to look out for, and who to contact for help. A similar campaign should be coordinated with job centres across the country.
 
-**Run television, Facebook and Instagram campaigns targeting young people, but particularly young women.**
+* Run television, Facebook and Instagram campaigns targeting young people, but particularly young women.
 
-**Consider introducing financial incentives for people to eat out or join social/sports clubs**
+* Consider introducing financial incentives for people to eat out or join social/sports clubs**
 
-**Inform the Italian authorities of the levels of mental health problems reported by people living there**
+* Inform the Italian authorities of the levels of mental health problems reported by people living there
 
-<img src="images/shutterstock_620724863.jpg" style="width: 700px;"/>
+<img src="images/work.png" style="width: 700px;"/>
 <br>
 <br>
 
@@ -135,6 +138,8 @@ This analysis leads to the following recommendations for the government for its 
 
 * There were sparse responses to questions about working from home, which made them unusable. We should conduct our own survey on this issue, as it is potentially an important factor that has only arisen during the last two years
 
+<img src="images/back.png" style="width: 700px;"/>
+
 * There appears to be evidence from the models that pre-existing conditions such as arthritis, HIV and asthma  have a signifcant effect. But there were too few positive cases in the dataset to make a definitive statement. We should encourage charities dealing with those diseases to conduct surveys. the responses would help us make a more robust model
 
 * The responses on vaccine uptake and hesitancy were also a little inconsistent as different countries were at different stages in their vaccination programs over the duration of the survey. Now countries are on more of an even footing, we should conduct a survey focussed on issues surrounding access and attitudes to vaccines and mental health
@@ -144,6 +149,6 @@ This analysis leads to the following recommendations for the government for its 
 <br>
 
 
-https://news.un.org/en/story/2021/09/1099572
+[1] https://news.un.org/en/story/2021/09/1099572
 
-https://www.who.int/news-room/feature-stories/detail/facing-mental-health-fallout-from-the-coronavirus-pandemic
+[2] https://www.who.int/news-room/feature-stories/detail/facing-mental-health-fallout-from-the-coronavirus-pandemic
